@@ -1,6 +1,10 @@
 <h1 align="center">General Projects Collection</h1>
 
 <p align="center">
+  <img src="https://i.pinimg.com/1200x/5f/e7/d2/5fe7d24a36fffeceae671f7e587112d9.jpg" alt="Cover Image" style="width:100%; height:auto;"/>
+</p>
+
+<p align="center">
   A personal collection of projects and exercises focused on improving practical skills in coding, data, and APIs.
 </p>
 
