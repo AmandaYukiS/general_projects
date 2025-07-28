@@ -42,8 +42,8 @@
   <br>
 
   <li>
-    <strong>📊 Seaborn Visualization Guide</strong><br>
-    Extraction and visualization stock data using Jupyter Notebook with the libraries <code>yfinance</code> <code>bs4</code> <code>nbformat</code> <code>plotly</code> <code>matplotlib</code>.<br>
+    <strong>📈 Seaborn Visualization Guide</strong><br>
+    Extraction and visualization on stock data using Jupyter Notebook with the libraries <code>yfinance</code> <code>bs4</code> <code>nbformat</code> <code>plotly</code> <code>matplotlib</code>.<br>
     <em>Folder:</em> <code>/Final Assignment.ipynb</code>
   </li>
 </ul>
